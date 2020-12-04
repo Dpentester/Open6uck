@@ -1,4 +1,5 @@
-# OpenFuck
+# Open6uck
+Original Name is OpenFuck, but i changed it for some reasons
 This is a tool to exploit apache server
 
 ## Usage
