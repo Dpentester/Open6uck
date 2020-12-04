@@ -7,7 +7,7 @@ This Exploit (https://www.exploit-db.com/exploits/764/) is outdated.
 Below you can take updated
 1. Download 764.c
 ~~~
-
+git clone https://github.com/dillu345/OpenFuck.git
 ~~~
 2. Install libssl-dev & libssl1.0dev
 ~~~
