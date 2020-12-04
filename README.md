@@ -1,6 +1,7 @@
 # Open6uck
 Original Name is OpenFuck, but i changed it for some reasons.
-This is a tool to exploit apache server
+```
+This is a exploit to hack apache server
 
 ## Usage
 This Exploit (https://www.exploit-db.com/exploits/764/) is outdated.
