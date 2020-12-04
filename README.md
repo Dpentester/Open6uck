@@ -7,7 +7,7 @@ This is an exploit to hack apache server
 This Exploit (https://www.exploit-db.com/exploits/764/) is outdated.
 
 Below you can take updated exploit file
-1. Download 764.c
+1. Download the below file
 ~~~
 git clone https://github.com/dillu345/OpenFuck.git
 ~~~
