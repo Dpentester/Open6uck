@@ -11,10 +11,10 @@ Below you can take updated exploit file
 ~~~
 git clone https://github.com/dillu345/OpenFuck.git
 ~~~
-2. Install libssl-dev & libssl1.0dev
+2. Install libssl-dev & libssl1.0-dev
 ~~~
 apt install libssl-dev
-apt install libssl1.0 dev
+apt install libssl1.0-dev
 ~~~
 
 3. Now Compile
