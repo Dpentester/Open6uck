@@ -4,7 +4,7 @@ This is a tool to exploit apache server
 ## Usage
 This Exploit (https://www.exploit-db.com/exploits/764/) is outdated.
 
-Below you can take updated
+Below you can take updated exploit file
 1. Download 764.c
 ~~~
 git clone https://github.com/dillu345/OpenFuck.git
