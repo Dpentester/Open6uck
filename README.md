@@ -11,7 +11,7 @@ Below you can take updated exploit file
 ~~~
 git clone https://github.com/Dpentester/Open6uck.git
 ~~~
-2. Install libssl-dev & libssl1.0-dev
+2. Install libssl-dev (or) libssl1.0-dev
 ~~~
 apt install libssl-dev
 apt install libssl1.0-dev
