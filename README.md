@@ -9,7 +9,7 @@ This Exploit (https://www.exploit-db.com/exploits/764/) is outdated.
 Below you can take updated exploit file
 1. Download the below file
 ~~~
-git clone https://github.com/dillu345/OpenFuck.git
+git clone https://github.com/Dpentester/Open6uck.git
 ~~~
 2. Install libssl-dev & libssl1.0-dev
 ~~~
