@@ -961,7 +961,7 @@ void send_client_hello(ssl_conn *ssl)
 void get_server_hello(ssl_conn* ssl)
 {
 	unsigned char buf[BUFSIZE];
-	unsigned char *p, *end;
+	const unsigned char *p, *end;
 	int len;
 	int server_version, cert_length, cs_length, conn_id_length;
 	int found;
